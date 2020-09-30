@@ -1,2 +1,2 @@
 # pygamegenetic
-This was a project of mine for learning about genetic algorithms. It uses pygame to show what is being simulated. An agent releases a ball and is rewarded based on how far it threw the ball. The top three tosses are used to create the next batch of agents, which have slight random modifications from the previous best three.
+The goal of this project was to learn about genetic algorithms. It uses pygame to show what is being simulated. An agent behaves based on measurements taken from the environment, and ranked based on how well it performed the task. The top three agents are used to model the next set.
